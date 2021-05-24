@@ -14,8 +14,15 @@
   "author": "Reynaldo Fuentes <rfuentes9026@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reynaldo-fg/randon-messages-probando.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Reynaldo-fg/randon-messages-probando/issues"
+  },
+  "homepage": "https://github.com/Reynaldo-fg/randon-messages-probando#readme"
 }
-    
